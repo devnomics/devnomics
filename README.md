@@ -1,16 +1,18 @@
-## Hi there 👋
+### devnomics / README.md
 
-<!--
-**devnomics/devnomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciências Economicas, Análise de Dados e Automações.
+Usuario Médio de Linux;
 
-Here are some ideas to get you started:
+ 🛠️ Meus projetos e anotações favoritas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 [Como eu uso IA no VS Code](#)  
+  Guia com dois modos: Tutor e Assistente.
+
+- 🐍 [Automatizações com Python](#)  
+  Scripts úteis e rápidos que uso no dia a dia.
+
+- 🧾 [Conversor de Nota Fiscal XML em Excel](#)  
+  Ferramenta simples para leitura de NFe.
+
+- 🛠️ [Dotfiles e Configs Linux](#)  
+  Setup pessoal para produtividade com terminal e VS Code.
